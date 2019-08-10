@@ -1,0 +1,16 @@
+
+
+
+mybatis:
+  mapper-locations:
+  type-aliases-package:
+spring:
+  datasource:
+    username:
+    password:
+    url:
+
+
+
+
+
